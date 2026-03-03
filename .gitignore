@@ -1,5 +1,5 @@
 __pycache__/
 *.pyc
-main.py
 data/
 .venv/
+draft.py
